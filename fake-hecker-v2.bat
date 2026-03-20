@@ -10,7 +10,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -20,7 +20,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -30,7 +30,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -40,7 +40,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -50,7 +50,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -60,7 +60,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -70,7 +70,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -80,7 +80,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -90,7 +90,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -100,7 +100,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -110,7 +110,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -120,7 +120,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -130,7 +130,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -140,7 +140,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -150,7 +150,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -160,7 +160,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -170,7 +170,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -180,7 +180,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -190,7 +190,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -200,7 +200,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -210,7 +210,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -220,7 +220,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -230,7 +230,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -240,7 +240,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -250,7 +250,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -260,7 +260,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -270,7 +270,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -280,7 +280,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -290,7 +290,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -300,7 +300,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -310,7 +310,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -320,7 +320,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -330,7 +330,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -340,7 +340,7 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
 cd \Windows\System32\
 dir
 cd \Windows\WinSxS\
@@ -350,4 +350,184 @@ dir
 echo Searching for more to hack...
 timeout /t 2 >nul
 echo Found new directories!
-timeout /t 0.3 >nul
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
+cd \Windows\System32\
+dir
+cd \Windows\WinSxS\
+dir
+cd \Windows\Panther\
+dir
+echo Searching for more to hack...
+timeout /t 2 >nul
+echo Found new directories!
+timeout /t 1 >nul
